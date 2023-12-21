@@ -1,4 +1,4 @@
-# Portfolio: Automação Sulamerica
+# Projeto: Automação Juridica
 
 ## Objetivo do Código
 O código desenvolvido realiza a automação de tarefas no sistema da Sulamerica, utilizando a biblioteca Selenium em Python. As principais funcionalidades incluem a leitura de dados de um arquivo Excel, login no sistema, navegação em diferentes páginas, preenchimento de formulários e manipulação de elementos web.

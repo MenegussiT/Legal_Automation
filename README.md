@@ -7,6 +7,7 @@ O código desenvolvido realiza a automação de tarefas no sistema da Sulamerica
 - **Pandas**: Utilizada para a leitura de dados do arquivo Excel e manipulação dos mesmos.
 - **Selenium**: Utilizada para a automação de interações com o navegador web.
 - **Time**: Utilizada para introduzir pausas no código, garantindo que as ações sejam realizadas no tempo correto.
+- **OpenpyXL**: Utilizada para manipulação e leitura de arquivos XLS ou XLSX do excel
 
 ## Fluxo do Código
 1. **Leitura do Arquivo Excel:**

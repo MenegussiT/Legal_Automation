@@ -1,4 +1,4 @@
-#Automação Sulamerica
+
 ###-----Importação da biblioteca que lê excel----###
 import pandas as pd
 ##importação de tempo

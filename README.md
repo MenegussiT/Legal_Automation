@@ -1,4 +1,4 @@
-Em inglês, a documentação ou um projeto similar seria escrita da seguinte maneira:
+
 
 # Project: Legal Automation
 
